@@ -1,0 +1,5 @@
+Mini Projects to do in HTML & CSS
+
+1. Any shop offer sale ad(lists project)
+2. Menu list of any website at top of the webpage (lists in horizontal order)
+3. Model news paper with image(flots project).
